@@ -65,6 +65,24 @@
     "npm",
     "package",
     "typescript",
-    "scaffolding"
+    "javascript",
+    "library",
+    "function",
+    "method",
+    "return",
+    "value",
+    "force",
+    "override",
+    "override return",
+    "override value",
+    "override return value",
+    "override function return",
+    "override function return value",
+    "override method return",
+    "override method return value",
+    "override function",
+    "override method",
+    "override function value",
+    "override method value"
   ]
 }

@@ -1,3 +1,3 @@
 export const defaultConfig = {
-  amountOfTimesToCall: -1,
-}
+  amountOfTimesToCall: -1
+};
