@@ -1,3 +1,9 @@
+#### 1.0.2 (2023-01-04)
+
+##### Refactors
+
+*  internal refactoring and better naming ([c2250111](https://github.com/Cadienvan/force-return/commit/c2250111187f5c9d066fbf28205cecd9565c0a9b))
+
 #### 1.0.1 (2023-01-03)
 
 ##### Chores
