@@ -1,3 +1,14 @@
+#### 1.0.3 (2023-04-23)
+
+##### Continuous Integration
+
+*  Added Node 20 in ci test matrix ([b20591f0](https://github.com/Cadienvan/force-return/commit/b20591f0c7ef20cfa7e1504001c38de3fde9e5dc))
+*  Added Node CI ([59cf81c0](https://github.com/Cadienvan/force-return/commit/59cf81c01592f92c6079e5cfd9c908b270f59200))
+
+##### Documentation Changes
+
+*  updated docs providing use cases ([c31145c2](https://github.com/Cadienvan/force-return/commit/c31145c2bb9fb30f0cf315c4678e8e5440f4b9ba))
+
 #### 1.0.2 (2023-01-04)
 
 ##### Refactors
