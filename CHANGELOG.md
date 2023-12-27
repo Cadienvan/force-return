@@ -1,5 +1,11 @@
 #### 1.0.5 (2023-12-27)
 
+##### Documentation Changes
+
+*  updated changelog ([46520951](https://github.com/Cadienvan/force-return/commit/4652095146f41153b6b436286846e9851643b3a4))
+
+#### 1.0.5 (2023-12-27)
+
 #### 1.0.4 (2023-12-27)
 
 ##### Chores
