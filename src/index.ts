@@ -17,7 +17,7 @@ export function forceReturn<FnArgs, ReturnValue>(
   let amountOfTimesToCallLeft: number | never = config.amountOfTimesToCall;
   // Save the original function and bring it back after config.amountOfTimesToCall calls
   const originalFn = fn;
-  let forcedFn = (...args: FnArgs[]) => returnValue;
+  let forcedFn = () => returnValue;
   if (!returnIndefinitely)
     return (...args: FnArgs[]) => {
       // If the amount of times to call is 0, bring back the original function
