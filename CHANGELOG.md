@@ -1,3 +1,9 @@
+#### 1.0.4 (2023-12-27)
+
+##### Chores
+
+*  update dependencies ([1675d0e8](https://github.com/Cadienvan/force-return/commit/1675d0e80801de4e6c974b29bdb20062f047c8cd))
+
 #### 1.0.3 (2023-04-23)
 
 ##### Continuous Integration
