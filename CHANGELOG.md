@@ -1,5 +1,16 @@
 #### 1.0.5 (2023-12-27)
 
+##### Chores
+
+*  type fix ([9b914cf9](https://github.com/Cadienvan/force-return/commit/9b914cf9caa9aebbd3bb33d2b74b4d771b319ff5))
+
+##### Documentation Changes
+
+*  updated changelog ([a648946c](https://github.com/Cadienvan/force-return/commit/a648946c8c2ed9beb7a140c9b33a3ccfa222c27c))
+*  updated changelog ([46520951](https://github.com/Cadienvan/force-return/commit/4652095146f41153b6b436286846e9851643b3a4))
+
+#### 1.0.5 (2023-12-27)
+
 ##### Documentation Changes
 
 *  updated changelog ([46520951](https://github.com/Cadienvan/force-return/commit/4652095146f41153b6b436286846e9851643b3a4))
